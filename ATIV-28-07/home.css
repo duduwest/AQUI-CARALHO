@@ -61,6 +61,6 @@ iframe {
 .nav-link{ 
    display: flex;  
    justify-content: space-around; 
-    margin-right: 100px; /* Adicione a margem direita desejada */
+    margin-right: 95px; /* Adicione a margem direita desejada */
 
 }  
