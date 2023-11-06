@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0; /* Remova a margem do body */
+    max-width: 100%; /* Defina o máximo de largura como 100% para preencher a largura da tela */
+}
+
+form {
+    max-width: 100%; /* Defina o máximo de largura como 100% para preencher a largura da tela */
+    margin: 0 auto; /* Centralize o formulário horizontalmente */
+}
+
+
+p {
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+select,
+textarea {
+    width: max-content;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-top: 10px;
+}
+
+select {
+    height: 34px;
+}
+
+textarea {
+    resize: vertical;
+    height: 120px;
+}
+
+input[type="submit"],
+input[type="reset"] {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+    background-color: #45a049;
+}
+
+iframe {
+    width: max-content;
+    height: 100px;
+    border: none;
+} 
+
+.nav-link{ 
+   display: flex;  
+   justify-content: space-around; 
+   margin: 47px; /* Adicione a margem direita desejada */ 
+   margin-top: 10px;
+
+}  
+
+.nav-item{ 
+    margin-top: 0;
+}
+ .carrousel-css{ 
+    margin: 0;
+ } 
+
+ .card-deitado{ 
+    margin-top: 5px;
+ } 
+
