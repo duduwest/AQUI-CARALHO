@@ -61,8 +61,8 @@ iframe {
 
 .nav-link{ 
    display: flex;  
-   justify-content: space-around; 
-   margin: 47px; /* Adicione a margem direita desejada */ 
+   justify-content: space-between; 
+   margin: 47px; 
    margin-top: 10px;
 
 }  
@@ -78,3 +78,11 @@ iframe {
     margin-top: 5px;
  } 
 
+
+ .navbar{ 
+     height: 80px;
+ } 
+
+ .navinf{ 
+    height: 10000px;
+ }
