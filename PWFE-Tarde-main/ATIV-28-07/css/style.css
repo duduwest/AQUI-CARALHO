@@ -2,11 +2,11 @@
 
 /* Estilo padrão para os links de navegação */
 .nav-link {
-  color: #333;
+  color: #000000;
   /* Cor de texto padrão */
   text-decoration: none;
   /* Remova o sublinhado por padrão */
-  transition: color 0.3s;
+  transition: color 0.09s;
   /* Adicione uma transição de cor suave */
 
  
@@ -21,35 +21,35 @@
   /* Aumenta a escala do elemento para criar um efeito de "salto" */
 }
 
-#navbarNavAltMarkup .nav-link {
-  text-decoration: underline;
-  /* Adicionar um sublinhado */
-}
+
 
 .link1:hover {
-  color: rgba(255, 0, 0, 0.566);
+  color: #aad4ec;
 }
 
 .link2:hover {
-  color: rgba(0, 0, 255, 0.434);
+  color: #aad4ec;
+  
 }
 
 .link3:hover {
-  color: rgba(0, 128, 0, 0.807);
+  color: #aad4ec;
+
 }
 
 .link4:hover {
-  color: rgb(255, 0, 204);
+  color: #aad4ec;
 }
 
 .link5:hover {
-  color: purple;
+  color: #aad4ec;
 }
 
 .link6:hover {
-  color: teal;
+  color: #aad4ec;
 }
 
 .link7:hover {
-  color: rgba(211, 116, 8, 0.73);
+  color: #aad4ec;
+
 }
