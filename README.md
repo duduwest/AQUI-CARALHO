@@ -22,5 +22,8 @@ Usamos o VUE, o Eduardo foi o responsável dessa interligação dos códigos com
 E também o BootStrap para fazer algumas páginas pra já serem colocadas a responsividade.
 
 
+APRESENTAÇÃO SLIDES
+https://gamma.app/docs/i3de3zebj1p1egl?token=&following_id=2ye6g01aezr22vm&follow_on_start=true
+
 
 
