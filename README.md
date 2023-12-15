@@ -19,6 +19,8 @@ FRAMEWORKS
 
 Usamos o VUE, o Eduardo foi o responsável dessa interligação dos códigos com o VUE.
 
+E também o BootStrap para fazer algumas páginas pra já serem colocadas a responsividade.
+
 
 
 
